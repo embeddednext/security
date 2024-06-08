@@ -1,4 +1,10 @@
-# The Linux Foundation
+# The Linux Foundation 
+
+# Video
+- https://www.youtube.com/watch?v=z_y84v9076c
+- https://www.youtube.com/watch?v=jtLQ8SzfrDU
+
+# Playlist
 
 ## [Linux Security Summit North America 2024](https://www.youtube.com/playlist?list=PLbzoR-pLrL6rbN7fu5TId8VWAC5A8v5O7) - Videos: 16
  - [Welcome & Opening Remarks - James Morris, Microsoft](https://youtube.com/watch?v=AO-NfubFwi8) - 174 seconds
