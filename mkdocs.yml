@@ -1,0 +1,23 @@
+site_name: Embedded Security
+theme: 
+   name: material
+   features:
+      -  search.suggest
+      -  search.highlight
+      -  content.tabs.link
+   plugins:
+     - search
+   palette: 
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+nav:
+- The Linux Foundation  : "index.md"
